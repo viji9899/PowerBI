@@ -49,7 +49,7 @@ Geographic Expansion: Identify opportunities for expansion into new regions or m
 Profitability Improvement: Implement strategies to enhance overall profitability, considering factors like discounts and product categories
 
 
-Problem Statement 3: **Laptop Specification and Pricing Analysis**
+Problem Statement 4: **Laptop Specification and Pricing Analysis**
 
 **Overview**:
 
