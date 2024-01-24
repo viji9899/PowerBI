@@ -17,7 +17,7 @@ Problem Statement 2: **UK Bank Customer Analysis**
 
 This PowerBI project is centered around the analysis of customer data from a UK-based bank. The dataset includes information about individual customers, their demographic details, banking attributes, and relevant metrics.
 
-**Applications**
+**Applications**:
 
 This PowerBI project serves various purposes within the bank's operations:
 
@@ -29,13 +29,14 @@ Financial Planning: Inform financial planning by understanding customer behavior
 
 Operational Efficiency: Optimize resources based on job classifications and tenure insights.
 
+
 Problem Statement 3: **Sales and Order Analysis**
 
 **Overview**:
 
 This PowerBI project focuses on the analysis of sales and order data from an e-commerce platform. The dataset includes detailed information about individual orders, customer details, and key metrics related to sales and profitability.
 
-**Usage**
+**Usage**:
 
 This PowerBI project provides interactive dashboards and reports to facilitate data-driven decision-making for the e-commerce platform:
 
@@ -46,4 +47,23 @@ Inventory Management: Improve inventory decisions by analyzing product performan
 Geographic Expansion: Identify opportunities for expansion into new regions or markets.
 
 Profitability Improvement: Implement strategies to enhance overall profitability, considering factors like discounts and product categories
+
+
+Problem Statement 3: **Laptop Specification and Pricing Analysis**
+
+**Overview**:
+
+This PowerBI project revolves around the analysis of laptop specifications, pricing, and customer ratings. The dataset includes detailed information about various laptop models, their technical specifications, pricing details, and customer reviews.
+
+**Usage**:
+
+This PowerBI project provides interactive dashboards and reports for stakeholders in the laptop retail industry to gain insights into product performance and market dynamics:
+
+Product Positioning: Position products strategically based on specifications and pricing.
+
+Promotional Strategies: Optimize promotions and discounts based on market trends.
+
+Customer Preferences: Understand customer preferences and adjust inventory accordingly.
+
+Competitor Analysis: Compare product offerings and pricing against competitors for informed decision-making
 
