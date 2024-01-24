@@ -28,3 +28,22 @@ Customer Segmentation: Utilize the analysis to categorize customers for personal
 Financial Planning: Inform financial planning by understanding customer behavior, tenure, and balance distribution.
 
 Operational Efficiency: Optimize resources based on job classifications and tenure insights.
+
+Problem Statement 3: **Sales and Order Analysis**
+
+**Overview**:
+
+This PowerBI project focuses on the analysis of sales and order data from an e-commerce platform. The dataset includes detailed information about individual orders, customer details, and key metrics related to sales and profitability.
+
+**Usage**
+
+This PowerBI project provides interactive dashboards and reports to facilitate data-driven decision-making for the e-commerce platform:
+
+Sales Strategy: Optimize sales strategies based on sales trends and customer segments.
+
+Inventory Management: Improve inventory decisions by analyzing product performance.
+
+Geographic Expansion: Identify opportunities for expansion into new regions or markets.
+
+Profitability Improvement: Implement strategies to enhance overall profitability, considering factors like discounts and product categories
+
